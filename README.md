@@ -15,10 +15,6 @@ In summary, the LSTM model demonstrated strong performance, accurately detecting
 
 This project showcases my proficiency in implementing and comparing different deep learning models for the task of malicious webpage detection. It highlights my ability to tune hyperparameters, handle unbalanced datasets, and evaluate model performance using appropriate metrics.
 
-# Malicious URL Detection — BERT vs LSTM
-
-Compare an LSTM baseline to a BERT classifier on a large URL dataset.
-
 ## Files
 `detecting_malicious_urls_using BERT.ipynb`.
 
