@@ -14,3 +14,19 @@ To evaluate the models' performance, I used various metrics and a confusion matr
 In summary, the LSTM model demonstrated strong performance, accurately detecting malicious URLs in the validation set 9 out of 10 times. However, the Pre-trained BERT model did not meet the expected performance level, likely due to the dataset's imbalance and size.
 
 This project showcases my proficiency in implementing and comparing different deep learning models for the task of malicious webpage detection. It highlights my ability to tune hyperparameters, handle unbalanced datasets, and evaluate model performance using appropriate metrics.
+
+# Malicious URL Detection — BERT vs LSTM
+
+Compare an LSTM baseline to a BERT classifier on a large URL dataset.
+
+## Files
+`detecting_malicious_urls_using BERT.ipynb`.
+
+> Remove `malicious_dataset.zip` from Git and link to the data source instead. Add `data/` to `.gitignore`.
+
+
+## Results
+Report accuracy/F1 and include a confusion matrix; discuss imbalance handling.
+
+## License
+MIT.
